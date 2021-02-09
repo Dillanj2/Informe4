@@ -14,16 +14,9 @@ Especificos
 
 2. MARCO TEÓRICO 
 
-Un fasor es un número complejo que representa la magnitud y la fase de una senoide.
-El concepto del fasor se establece a partir de la identidad de Euler, la cual relaciona el exponencial de un número complejo con la función trigonómetrica (a veces llamada cis):
-
-cis(x)=cos(x)+isin(x)
-
-La función coseno es la  parte real de la función exponencial, mientras que la función seno es la parte imaginaria.
-
-La forma polar del fasor queda de la siguiente forma: V=Vm|_(x)
-
-La forma rectangular del fasor queda de la siguiente forma: V=Vcos(x)+iVsen(x)
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Marco_Teorico.jpg">
+</p>
 
 3. LISTA DE COMPONENTES
 
