@@ -18,6 +18,10 @@ Especificos
   <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Marco_Teorico.jpg">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Fasores.jpeg">
+</p>
+
 3. LISTA DE COMPONENTES
 
 * 1 Calculadora Científica 
