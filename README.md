@@ -21,6 +21,9 @@ Especificos
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Fasores.jpg">
 </p>
+<p align="center">
+  Figura 2.1: Representación de un fasor.
+</p
 
 3. LISTA DE COMPONENTES
 
@@ -40,6 +43,8 @@ El procedimiento lo puede observar entrando al siguiente enlace:
 6. BIBLIOGRAFIA
 
 Obando, L. (S/F). Representacion fasorial de corrientes y voltajes. DadeMuchConnection. Obtenido de: https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
+
+Salvador, A. (Junio, 2015). Aplicación de fasores en la Ingeniería eléctrica y el plano complejo. Universidad Nacional del Sur. Obtenido de: http://lcr.uns.edu.ar/fvc/NotasDeAplicacion/FVC-AgustinRodriguez.pdf
 
 7. ANEXOS
 
