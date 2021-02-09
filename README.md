@@ -19,6 +19,12 @@ El concepto del fasor se establece a partir de la identidad de Euler, la cual re
 
 cis(x)=cos(x)+isin(x)
 
+La función coseno es la  parte real de la función exponencial, mientras que la función seno es la parte imaginaria.
+
+La forma polar del fasor queda de la siguiente forma: V=Vm|_(x)
+
+La forma rectangular del fasor queda de la siguiente forma: V=Vcos(x)+iVsen(x)
+
 3. LISTA DE COMPONENTES
 
 * 1 Calculadora Científica 
@@ -31,12 +37,12 @@ El procedimiento lo puede observar entrando al siguiente enlace:
 
 5. CONCLUSIONES
 
-* El teorema de superposicion nos ayuda de gran manera en el analisis de circuitos, especialmente cuando queremos encontrar la corriente que se forma en un resistor. 
-* Al aplicar el teorema de superposición en conjunto con los temas aprendidos anteriormente, el análisis de circuitos se hace mas facil de operar. 
+* Los circuitos de voltaje y corriente alterna son excitados por fuentes senoidales, es por ello quese usa fasores para la resolucion de las diferentes operaciones. 
+* Los numeros complejos ayudan de una manera significativa para la resolucion de circuitos en CA, por ende los fasores son un conocimiento importante dentro de los circuitos electricos.
 
-6. BIBLIOGRAFÍA
+6. BIBLIOGRAFIA
 
-McAllister, W. (S/F). El método de la corriente de malla. Khan Academy. Obtenido de: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+Obando, L. (S/F). Representacion fasorial de corrientes y voltajes. DadeMuchConnection. Obtenido de: https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
 
 7. ANEXOS
 
@@ -44,28 +50,28 @@ McAllister, W. (S/F). El método de la corriente de malla. Khan Academy. Obtenid
   <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20en%20TINKERCAD.jpeg">
 </p>
 <p align="center">
-  Figura 9.1: Circuito en Tinkercad.
+  Figura 7.1: Circuito en Tinkercad.
 </p
 
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20en%20LTspice.jpeg">
 </p>
 <p align="center">
-  Figura 9.1: Circuito en LTspice.
+  Figura 7.2: Circuito en LTspice.
 </p
 
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20con%20V_1%20cero.jpeg">
 </p>
 <p align="center">
-  Figura 9.3: Circuito con V_12 cero.
+  Figura 7.3: Circuito con V_12 cero.
 </p
   
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20con%20V_2%20cero.jpeg">
 </p>
 <p align="center">
-  Figura 9.4: Circuito con V_20 cero.
+  Figura 7.4: Circuito con V_20 cero.
 </p
 
 
