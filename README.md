@@ -31,7 +31,7 @@ Especificos
 
 4. PROCEDIMIENTO
 
-Simuladores web usados para la resolucion: 
+Simuladores web usados para la resolución: 
 
 <p><a href="https://es.planetcalc.com/133/">Conversión de coordenadas polares a coordenadas cartesianas</a>
 <p><a href="https://es.planetcalc.com/134/">Conversión de coordenadas cartesianas a coordenadas polares</a>
