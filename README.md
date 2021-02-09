@@ -54,31 +54,45 @@ Salvador, A. (Junio, 2015). Aplicación de fasores en la Ingeniería eléctrica 
 7. ANEXOS
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20en%20TINKERCAD.jpeg">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Ejer_8-5-1_lit_a.jpg">
 </p>
 <p align="center">
-  Figura 7.1: Circuito en Tinkercad.
+  Figura 7.1: Resolucion Ejercicio 8.5.1, literal a.
 </p
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20en%20LTspice.jpeg">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Ejer_8-5-1_lit_b.jpg">
 </p>
 <p align="center">
-  Figura 7.2: Circuito en LTspice.
+  Figura 7.2: Resolucion Ejercicio 8.5.1, literal b.
 </p
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20con%20V_1%20cero.jpeg">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Ejer_8-5-2_lit_a.jpg">
 </p>
 <p align="center">
-  Figura 7.3: Circuito con V_12 cero.
+  Figura 7.3: Resolucion Ejercicio 8.5.2, literal a.
 </p
   
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe3/blob/main/Im%C3%A1genes/Circuito%20con%20V_2%20cero.jpeg">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Ejer_8-5-2_lit_b.jpg">
 </p>
 <p align="center">
-  Figura 7.4: Circuito con V_20 cero.
+  Figura 7.4: Resolucion Ejercicio 8.5.2, literal b.
+</p
+  
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Ejer_8-5-3_lit_c1.jpg">
+</p>
+<p align="center">
+  Figura 7.5: Resolucion Ejercicio 8.5.3, literal c (Forma rectangular).
+</p
+  
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Ejer_8-5-3_lit_c2.jpg">
+</p>
+<p align="center">
+  Figura 7.6: Resolucion Ejercicio 8.5.3, literal c (Forma polar).
 </p
 
 
