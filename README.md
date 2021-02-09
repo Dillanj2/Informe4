@@ -22,8 +22,8 @@ Especificos
   <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Fasores.jpg">
 </p>
 <p align="center">
-  Figura 2.1: Representación de un fasor.
-</p
+  Figura 2.1: Representación gráfica de un fasor.
+</p>
 
 3. LISTA DE COMPONENTES
 
