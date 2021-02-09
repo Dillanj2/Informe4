@@ -31,9 +31,14 @@ Especificos
 
 4. PROCEDIMIENTO
 
-El procedimiento lo puede observar entrando al siguiente enlace:
+Simuladores web usados para la resolucion: 
 
-<p><a href="https://github.com/Dillanj2/Informe3/blob/main/C%C3%B3digo%20fuente/Procedimiento_de_Laboratorio_3.pdf">Procedimiento</a>
+<p><a href="https://es.planetcalc.com/133/">Conversión de coordenadas polares a coordenadas cartesianas</a>
+<p><a href="https://es.planetcalc.com/134/">Conversión de coordenadas cartesianas a coordenadas polares</a>
+  
+El procedimiento lo puede observar entrando al siguiente enlace: 
+
+<p><a href="https://github.com/Dillanj2/Informe4/blob/main/C%C3%B3digo%20fuente/Procedimiento_de_Laboratorio_4.pdf">Procedimiento</a>
 
 5. CONCLUSIONES
 
