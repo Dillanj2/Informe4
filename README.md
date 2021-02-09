@@ -19,7 +19,7 @@ Especificos
 </p>
 
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Fasores.jpeg">
+  <img src="https://github.com/Dillanj2/Informe4/blob/main/Im%C3%A1genes/Fasores.jpg">
 </p>
 
 3. LISTA DE COMPONENTES
