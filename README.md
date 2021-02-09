@@ -27,7 +27,7 @@ Especificos
 
 3. LISTA DE COMPONENTES
 
-* 1 Calculadora Científica 
+* Calculadora Científica 
 
 4. PROCEDIMIENTO
 
