@@ -4,7 +4,7 @@
 
 Generales
 
-* Analizar las operaciones de fasores y realizar los diferentes cálculos. 
+* Analizar las operaciones de fasores y realizar los diferentes cálculos, tanto en su forma polar como rectangular. 
 
 Especificos
 
